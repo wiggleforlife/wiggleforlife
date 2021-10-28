@@ -1,3 +1,5 @@
+i just realised how many of my repos are private 0-0
+
 <!--GitHub stats-->
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=wiggleforlife&count_private=true&show_icons=true&theme=nightowl)
 
